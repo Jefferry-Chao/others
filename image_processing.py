@@ -5,6 +5,7 @@
 #***Mail: zhaozhonghi@126.com 
 #***Created Time: 2018年03月25日 星期日 14时39分05秒
 #*************************************************************************
+# add line
 class image_processing(object):
     '''
     This class contains some image processing function.
